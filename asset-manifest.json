@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aprimerose_assignment_test/static/css/main.7a5d7513.css",
+    "main.js": "/aprimerose_assignment_test/static/js/main.03faef21.js",
+    "static/js/787.2a01434f.chunk.js": "/aprimerose_assignment_test/static/js/787.2a01434f.chunk.js",
+    "index.html": "/aprimerose_assignment_test/index.html",
+    "main.7a5d7513.css.map": "/aprimerose_assignment_test/static/css/main.7a5d7513.css.map",
+    "main.03faef21.js.map": "/aprimerose_assignment_test/static/js/main.03faef21.js.map",
+    "787.2a01434f.chunk.js.map": "/aprimerose_assignment_test/static/js/787.2a01434f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5d7513.css",
+    "static/js/main.03faef21.js"
+  ]
+}
